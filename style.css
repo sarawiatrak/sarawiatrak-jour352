@@ -1,9 +1,12 @@
+/* styles for resume */
+
 body {
   font-family: 'open-sans', arial, sans-serif;
   size:1em;
   color:#444;
 }
 
+/* name at top */
 H1 {
   font-size:3em;
   color:#33485e;
@@ -11,27 +14,32 @@ H1 {
   text-align:center;
 }
 
+/* title */
 strong {
   font-size:1.5em
   text-transform: uppercase;
 }
 
+/* headers */
 h2 {
   font-size: 1.5em;
   color:white;
   background-color:#33485e;
 }
 
+/* job places */
 h3 {
   font-size:1.5em;
   font-weight: 600;
 }
 
+/* job titles */
 h4 {
   font-size:1.5em;
   font-weight: 400;
 }
 
+/* job time */
 h5 {
   font-size:1em;
   font-weight: 400;
