@@ -14,5 +14,25 @@ H1 {
 strong {
   font-size:1.5em
   text-transform: uppercase;
-  color:#
+}
+
+h2 {
+  font-size: 1.5em;
+  color:white;
+  background-color:#33485e;
+}
+
+h3 {
+  font-size:1.5em;
+  font-weight: 600;
+}
+
+h4 {
+  font-size:1.5em;
+  font-weight: 400;
+}
+
+h5 {
+  font-size:1em;
+  font-weight: 400;
 }
