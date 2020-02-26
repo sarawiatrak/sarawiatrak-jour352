@@ -62,7 +62,7 @@ font-weight: 600;
   margin-right: 0px; auto;
 }
 
-.menu {
+.menu li {
   margin: 0px; auto;
   padding: 0px; auto;
   text-align: center;
@@ -115,27 +115,9 @@ H1 {
   margin-left: 0; auto;
 }
 
-/* headers */
-h2 {
-  font-size: 1.5em;
-  color:white;
-  background-color:#33485e;
-}
-
-/* job places */
-h3 {
-  font-size:1.5em;
-  font-weight: 600;
-}
-
-/* job titles */
-h4 {
-  font-size:1.5em;
-  font-weight: 400;
-}
-
-/* job time */
-h5 {
-  font-size:1em;
-  font-weight: 400;
+.top {
+  width: 100%;
+  max-width: 60%;
+  margin: 0; auto;
+  padding-bottom: 50px; auto;
 }
