@@ -10,7 +10,7 @@ body {
   width:100%;
   max-width: 1200px;
   margin: 0; auto;
-  margin-bottom:30px;
+  margin-bottom:50px;
 }
 
 #name {
@@ -100,7 +100,7 @@ H1 {
   margin-top: 20px;
   margin-bottom: 0; auto;
   margin-right: 0; auto;
-  margin-left: 0; auto;  
+  margin-left: 0; auto;
 }
 
 /* headers */
