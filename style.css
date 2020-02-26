@@ -5,6 +5,22 @@ body {
   size:1em;
   color:#444;
 }
+#container {
+  width:100%;
+  max-width: 1200px;
+  margin: 0; auto;
+  margin-bottom:30px;
+}
+
+#name {
+  font-size:3em;
+  text-transform:uppercase;
+  text-align:center;
+  border-bottom:1px solid #33485e;
+  border-width:60%;
+  min-width: 300px;
+  margin: 0; auto;
+}
 
 /* name at top */
 H1 {
