@@ -5,6 +5,7 @@ body {
   size:1em;
   color:#444;
 }
+
 #container {
   width:100%;
   max-width: 1200px;
@@ -20,6 +21,59 @@ body {
   border-width:60%;
   min-width: 300px;
   margin: 0; auto;
+}
+
+#sectionheader {
+  font-size: 1.5em;
+  color:white;
+  background-color:#33485e;
+  margin-bottom:10px; auto
+  margin-top:20px; auto;
+  margin-left: 0; auto;
+  margin-right: 0; auto;
+  border-width:70%;
+  min-width: 300px;
+  margin: 0; auto;
+}
+
+#jobtitle {
+font-size:1.5em;
+font-weight: 600;
+}
+
+#organization {
+  font-size:1.25em;
+  font-weight: 400;
+}
+
+#date {
+  font-size:1em;
+  font-weight:400;
+  margin-top:2px; auto;
+  margin-bottom:0px; auto;
+  margin-right:0px; auto;
+  margin-left:0px;auto;
+}
+
+.description {
+  margin-top: 10px; auto;
+  margin-bottom: 10px; auto;
+  margin-left:0px; auto;
+  margin-right: 0px; auto;
+}
+
+.menu {
+  margin: 0px; auto;
+  padding: 0px; auto;
+  text-align: center;
+  display: inline;
+}
+
+#degrees {
+  margin-top: 5px; auto;
+  margin-right: 0; auto;
+  margin-left: 0; auto;
+  margin-bottom: 0; auto;
 }
 
 /* name at top */
