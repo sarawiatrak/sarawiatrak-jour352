@@ -1,0 +1,123 @@
+/* styles for resume */
+
+body {
+  font-family: 'open-sans', arial, sans-serif;
+  size:1em;
+  color:#444;
+}
+
+#container {
+  width:100%;
+  max-width: 1200px;
+  margin: 0; auto;
+  margin-bottom:50px;
+}
+
+#name {
+  font-size:3em;
+  text-transform:uppercase;
+  text-align:center;
+  border-bottom:1px solid #33485e;
+  border-width:60%;
+  min-width: 300px;
+  margin: 0; auto;
+}
+
+#sectionheader {
+  font-size: 1.5em;
+  color:white;
+  background-color:#33485e;
+  margin-bottom:10px;
+  margin-top:20px;
+  margin-left: 0; auto;
+  margin-right: 0; auto;
+  border-width:70%;
+  min-width: 300px;
+  margin: 0; auto;
+}
+
+#jobtitle {
+font-size:1.5em;
+font-weight: 600;
+}
+
+#organization {
+  font-size:1.25em;
+  font-weight: 400;
+}
+
+#date {
+  font-size:1em;
+  font-weight:400;
+  margin-top:2px;
+  margin-bottom:0px; auto;
+  margin-right:0px; auto;
+  margin-left:0px; auto;
+}
+
+.description {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left:0px; auto;
+  margin-right: 0px; auto;
+}
+
+.menu li {
+  margin: 0px; auto;
+  padding: 0px; auto;
+  text-align: center;
+  display: inline;
+}
+
+#degrees {
+  font-size: 1.5em;
+  color:white;
+  background-color:#33485e;
+  margin-bottom:10px;
+  margin-top:20px;
+  margin-left: 0; auto;
+  margin-right: 0; auto;
+  border-width:70%;
+  min-width: 300px;
+  margin: 0; auto;
+}
+
+#do {
+  font-size: 1.5em;
+  color:white;
+  background-color:#33485e;
+  margin-bottom:10px;
+  margin-top:20px;
+  margin-left: 0; auto;
+  margin-right: 0; auto;
+  border-width:70%;
+  min-width: 300px;
+  margin: 0; auto;
+}
+
+/* name at top */
+H1 {
+  font-size:3em;
+  color:#33485e;
+  text-transform:uppercase;
+  text-align:center;
+}
+
+/* title */
+#title {
+  font-size:1.5em;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0; auto;
+  margin-right: 0; auto;
+  margin-left: 0; auto;
+}
+
+.top {
+  width: 100%;
+  max-width: 60%;
+  margin: 0; auto;
+  padding-bottom: 50px; auto;
+}
