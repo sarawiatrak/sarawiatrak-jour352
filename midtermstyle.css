@@ -1,0 +1,100 @@
+/**** style for midterm ****/
+
+#headline {
+  margin: 0 auto;
+  width: 900px;
+  font-size: 32pt;
+  font-family:times;
+  font-family: serif;
+  font-weight: bolder;
+}
+
+
+
+
+#byline {
+   margin: 0 auto;
+   width: 900px;
+   font-family: Lucida;
+   font-size: 12pt;
+   font-style: bold;
+}
+
+
+.subhead {
+   margin: 0 auto;
+   width: 900px;
+   font-size: 19pt;
+   font-family:Lucida;
+   font-family: serif;
+   font-style: italic;
+   margin-bottom: 5pt;
+}
+
+
+.graphic {
+display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 900px;
+}
+
+.content {
+ margin: 0 auto;
+ width: 900px;
+ font-family: georgia;
+ font-family: serif;
+ font-size: 13pt;
+}
+
+a {
+  color: brown;
+}
+
+blockquote {
+  font: 26px/24px normal georgia, serif;
+  font-style: italic;
+  margin-top: 28px;
+  margin-bottom: 25px;
+  color: darkred;
+  margin-left: 50px;
+  padding-left: 15px;
+}
+
+
+#name {
+  margin-bottom: 2pt;
+  width: 900px;
+  font-family: times;
+  font-family: serif;
+  font-size: 14pt;
+ }
+
+ #question {
+   margin-bottom: 5pt;
+   width: 900px;
+   font-family: Lucida;
+   font-family: serif;
+   font-size: 13pt;
+  }
+
+#relatedstories {
+  margin: 0 auto;
+  width: 900px;
+  font-family: Lucida;
+  font-family: serif;
+  font-size: 16pt;
+  margin-bottom: 5pt;
+
+}
+
+#related {
+  margin: 0 auto;
+  width: 900px;
+  font-family: Lucida;
+  font-style: italic;
+  font-family: serif;
+  font-size: 13pt;
+  hyperlink-color: purple;
+
+}
