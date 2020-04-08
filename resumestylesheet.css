@@ -1,0 +1,117 @@
+/***resume stylesheet***/
+#name {
+font-size: 75px;
+margin-left: 50px;
+font: helvetica;
+font-family: sans-serif:
+
+
+}
+
+#nav {
+width:750px;
+margin:0 auto;
+list-style:none;
+}
+#nav li {
+float:left;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px;
+text-decoration:none;
+float: left;
+color: darkgray;
+
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+#nav a:hover {
+  color: black;
+}
+
+
+a:link {
+  text-decoration:none;
+  color: gray;
+  text-decoration: none;
+  font-size: 17px;
+  }
+
+a:hover {
+  color: darkgray;
+}
+
+nav-item active {
+  text-align: center;
+}
+
+head {
+background-color: white;
+margin-top: -10px;
+
+}
+
+body {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#navlink {
+font-size: 17px;
+}
+
+i {
+position: relative;
+top: 5px;
+left: 5px
+
+}
+
+.topnav {
+  position: relative;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.jumbotron {
+background-color: #fbfbfb;
+margin-top: -28px;
+}
+
+nav {
+background-color: white;
+width: 100%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.container {
+  background-color: white;
+  padding: 30px;
+  outline-width: 0.5px;
+  outline-color: black;
+  outline-style: inset;
+}
