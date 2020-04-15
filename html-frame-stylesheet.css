@@ -1,0 +1,76 @@
+head {
+background-color: white;
+margin-top: -10px;
+
+}
+
+
+
+h1 {
+font-size: 60px;
+margin-left: 50px;
+font: helvetica;
+font-family: sans-serif:
+}
+
+
+h5 {
+  font-size: 20px;
+  margin-left: 50px;
+  font: helvetica;
+  font-family: sans-serif:
+
+}
+
+
+h2 {
+  font-size: 30px;
+  margin-left: 50px;
+  font: helvetica;
+  font-family: sans-serif:
+
+}
+
+.text {
+  font-size: 15px;
+  margin-left: 50px;
+  font: helvetica;
+  font-family: sans-serif:
+
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+#caption {
+  font-size: 12px;
+  color: gray;
+  margin-left: 50px;
+  font: helvetica;
+  font-family: sans-serif:
+}
+
+.container {
+  background-color: white;
+  padding: 30px;
+}
+
+.containertext {
+  font-size: 15px;
+  margin-left: 0px;
+  font: helvetica;
+  font-family: sans-serif:
+
+}
+
+.footer-copyright {
+  background-color: lightgray;
+  color: gray;
+  width: 100%;
+
+}
